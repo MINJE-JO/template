@@ -1,0 +1,1 @@
+내가 항상 코딩할떄 next.js 14.2.20, node 20.18.1, tailwind, shadcn, supabase, supabase의 kakao auth provider를 쓰거든. 그래서 항상 이것들을 쓰니까 그냥 이것들을 미리 세팅을 해놓고, github에 올려놓은 다음에, 내가 프로젝트를 시작할때마다 이제 그걸 clone해서 사용할까 싶어. 그래서 supabase key들이랑, kakao auth key 같은것들만 수정을 하는거지
